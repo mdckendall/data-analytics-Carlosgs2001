@@ -12,12 +12,12 @@ class Main {
     do{
       System.out.println("Press 1 to learn about salary.");
     System.out.println("Press 2 to learn about the job.");
-    System.out.println("Press 3 to learn about demands.");
+    System.out.println("Press 3 to learn about demand.");
     System.out.println("Press 4 to view current students.");
     System.out.println("Press 5 to quit.");
     a=scanner.nextInt();
     if(a==1){
-      System.out.println("$93,345 average salary in South Florida!");
+      System.out.println("$98,345 average salary in South Florida!");
     }if(a==2){
       System.out.println("US News - 100 Best Jobs!");
     }if(a==3){
